@@ -1,9 +1,0 @@
-https://newsapi.org/v2/everything?q=tesla&from=2021-08-14&sortBy=publishedAt&apiKey=f69e2dbdc9af4bddaf2a992b101235e1
-
-https://newsapi.org/v2/everything?q=tesla&from=2021-09-14&sortBy=publishedAt&apiKey=f69e2dbdc9af4bddaf2a992b101235e1
-
-https://newsapi.org/v2/everything?q=tesla&from=2021-08-26&sortBy=publishedAt&apiKey=f69e2dbdc9af4bddaf2a992b101235e1
-
-https://newsapi.org/v2/top-headlines?country=in&apiKey=f69e2dbdc9af4bddaf2a992b101235e1
-
-https://newsapi.org/s/india-news-api
